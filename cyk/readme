@@ -1,0 +1,5 @@
+CYK Algorithm 
+will operate only on context-free grammar given in
+Chomsky normal form (CNF) and will determ if a 
+given string is part of the Grammar or not
+
