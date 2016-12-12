@@ -1,0 +1,22 @@
+Maquina Turing 
+
+programed in c++
+
+using std::map will simulate an infinite tape that will be hable to
+move to any direction and tape  will be manipulated by basic turin
+machines:
+
+right, left, Rn, Ln, shift right, write, print
+
+everytime will show a menu with 3 options  queue, pop, and end
+queue: will add characters on the right side and will show  where
+the cabezal is.
+
+pop: will move first character on the right on the tape init and
+adding that character to first position on the leftside of the 
+tape init, and will place a blank space into the first position
+of the tape, and  will shift the blanck space to the right end
+ofthe tape. Printing every place of the cabezal from first tape
+place to the tape end.
+
+
