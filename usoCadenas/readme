@@ -1,0 +1,9 @@
+Program that will manipulate strings implementing 
+basic operations:
+
+- will show the minimal alphabet of the string
+- calculate the string length
+- determinate if 2 strings are equals
+- calculate concatenations ab and ba
+- determinate length of 2 string concatenation
+- repeat ^n times a string
